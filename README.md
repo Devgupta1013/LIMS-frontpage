@@ -30,11 +30,6 @@ This project is a **responsive front-end website** built with **HTML, CSS, and J
 
 ---
 
-## 📷 Preview  
-(Add screenshots of your project here)  
-
----
-
 ## 🔧 How to Use  
 1. Clone this repository:  
    ```bash
